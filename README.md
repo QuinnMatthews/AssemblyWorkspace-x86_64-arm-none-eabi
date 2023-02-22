@@ -14,6 +14,7 @@ Useful set of tools to get started with the GNU arm-none-eabi toolchain to build
 ## Using these tools
 1) Now that everything is installed you can use the workspace folder you can add your program files to the `src` directory
 2) When you are ready to build your files simply run the `make` command
+   * `make` is already installed on SMU's genuse servers, additional steps may be required on other platforms
 
 ## Remote Tips/Tricks
 If you are following this guide to install this on SMU's genuse servers (or any other remote machine) these tips might be helpful
