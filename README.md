@@ -7,7 +7,7 @@ Useful set of tools to get started with the GNU arm-none-eabi toolchain to build
 ## Install Steps
 1) Clone this repository `git clone https://github.com/QuinnMatthews/AssemblyWorkspace-x86_64-arm-none-eabi.git`
 2) Move into the new directory `cd AssemblyWorkspace-x86_64-arm-none-eabi`
-3) Run the init.sh script `.\init.sh`
+3) Run the init.sh script `./init.sh`
    - If you get a permission error `bash: ./init.sh: Permission denied`, you might need to run the following command first: `chmod u+x ./init.sh`
 4) Wait for the file to finish downloading then you can move into the workspace folder `cd workspace`
 
